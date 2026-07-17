@@ -1,25 +1,17 @@
-# Education Pals Build Pack
+# SIGNAL scan: AIij
 
-- Course: `0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d`
-- Chapter: `06d04c68-fd4a-4070-9a7f-206be5d8a46a`
-- Template: `tpl_002_signal_scanner`
-- Compiled: 2026-07-17T01:14:16.769Z
-- Verification token: `01KXPT6XA1CZA59QJGF6N9KB6X`
-- Score: 16
-- Verdict: Watch
-- Repository: https://github.com/educationpals-builds/0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d-06d04c68-fd
+Scored by dasdaijdfjbfd on 2026-07-17 as part of the EducationPals workshop 'SIGNAL Builder: Score One Workplace Claim'.
 
-## Variants
+**Verdict: Watch (16/30)**
 
-- `workshop_readme` → `README.md`
-- `workshop_scorecard` → `scorecard/signal-scorecard.md`
-- `workshop_brief` → `brief/stakeholder-brief.md`
-- `workshop_recipe` → `recipes/score-the-next-claim.md`
-- `workshop_provenance` → `.ep/provenance.json.md`
+Specificity evidence is the claim itself: does it name one task, one team, one input→output? If a skeptical coworker would need a follow-up question, note what’s vague. Specificity evidence is the claim itself: does it name one task, one team, one input→output? If a skeptical coworker would need a follow-up question, note what’s vague. Specificity evidence is the claim itself: does it name one task, one team, one input→output? If a skeptical coworker would need a follow-up question, note what’s vague. Specificity evidence is the claim itself: does it name one task, one team, one input→output? If a skeptical coworker would need a follow-up question, note what’s vague.
 
-## Files
+## In this repo
 
-- `manifest.json` — verification manifest
-- `instructions.md` — paste tips per variant
+- `scorecard/signal-scorecard.md`: the six-dimension evaluation
+- `brief/stakeholder-brief.md`: one-page summary for a manager
+- `recipes/score-the-next-claim.md`: paste-ready prompt to score future claims
 
-<!-- educationpals-build-verified -->
+---
+
+Parts of this repo were generated with AI assistance inside EducationPals; see .ep/provenance.json for slot-level detail.
