@@ -1,0 +1,32 @@
+{
+  "verificationToken": "01KXPT6XA1CZA59QJGF6N9KB6X",
+  "courseId": "0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d",
+  "chapterId": "06d04c68-fd4a-4070-9a7f-206be5d8a46a",
+  "templateId": "tpl_002_signal_scanner",
+  "variants": [
+    {
+      "id": "workshop_readme",
+      "path": "README.md"
+    },
+    {
+      "id": "workshop_scorecard",
+      "path": "scorecard/signal-scorecard.md"
+    },
+    {
+      "id": "workshop_brief",
+      "path": "brief/stakeholder-brief.md"
+    },
+    {
+      "id": "workshop_recipe",
+      "path": "recipes/score-the-next-claim.md"
+    },
+    {
+      "id": "workshop_provenance",
+      "path": ".ep/provenance.json.md"
+    }
+  ],
+  "totalScore": 16,
+  "verdict": "Watch",
+  "compiledAt": "2026-07-17T01:14:16.769Z",
+  "compositionMode": null
+}
